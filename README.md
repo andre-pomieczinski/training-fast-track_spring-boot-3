@@ -1,7 +1,7 @@
 # training-fast-track_spring-boot-3
 Projects created during fast track training
 
-Estes cursos foram sugeridos para realização de treinamento de Spring Boot 3, após este foi necessário aplicar os conhecimentos obtidos em um projeto de conclusão.
+Estes cursos foram sugeridos para realização durante treinamento de Spring Boot 3, após este foi necessário aplicar os conhecimentos obtidos em um projeto de conclusão.
 
 ## Cursos da plataforma da Alura
 
@@ -17,4 +17,4 @@ Estes cursos foram sugeridos para realização de treinamento de Spring Boot 3, 
 
 ## Links
 
-Pode-se acessar este projeto de conclusão acessando o repositório [spring-boot_order-integration](https://github.com/andre-pomieczinski/spring-boot_order-integration).
+Pode-se acessar o projeto de conclusão acessando o repositório [spring-boot_order-integration](https://github.com/andre-pomieczinski/spring-boot_order-integration).
